@@ -1,1 +1,3 @@
-Create new directory called 0x01-git
+This is my first project with ALX
+
+#DoHardThings
